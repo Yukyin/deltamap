@@ -1,0 +1,24 @@
+# Meta data with file paths (machine-specific)
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Editors
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Environments
+.env
+.venv
+venv/
+env/
